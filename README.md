@@ -116,4 +116,4 @@ Levoric Learn thrives on the collective efforts of its contributors. By joining 
 
 If you have any questions or need assistance, reach out to us via our [Support Page](https://support.levoriclearn.com) or [GitHub Repository](https://github.com/levoric-learn).
 
-Thank you for being part of our mission. Let’s code, collaborate, and create a better world!  
+Thank you for being part of our mission. Let’s code, collaborate, and create a better world.
