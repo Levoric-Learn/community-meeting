@@ -1,8 +1,6 @@
 # Levoric Learn Community Meeting
 Levoric Learn is an open-source initiative dedicated to creating accessible developer resources and tools. If you're passionate about contributing to our projects, discussing bug fixes, or exploring innovative ways to enhance our work, this meeting is the perfect opportunity for you.
 
-Got it! Here's the revised version of the "Levoric Learn Community Code of Conduct" with improved grammar and tone in U.S. English:
-
 ---
 
 # Levoric Learn Community Code of Conduct
@@ -13,7 +11,7 @@ At Levoric Learn, we warmly welcome contributors from around the world who are p
 
 ### Our Vision
 
-Levoric Learn is more than just a platform—it’s a mission to provide free and accessible educational resources for everyone, especially those facing financial barriers to education. By contributing, you’re helping to build a strong community that uplifts underprivileged families and promotes open-source education worldwide.
+Levoric Learn is more than just a platform it’s a mission to provide free and accessible educational resources for everyone, especially those facing financial barriers to education. By contributing, you’re helping to build a strong community that uplifts underprivileged families and promotes open-source education worldwide.
 
 ### Our Core Values
 
