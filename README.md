@@ -9,7 +9,7 @@ Each meeting has its own folder labeled with the meeting date. If you’d like t
 
 You can also subscribe to our public calendar to stay updated on upcoming events:
 
-- [Web Calendar](#)
+- [Web Calendar](https://calendar.google.com/calendar/u/0/r/week/2025/1/13)
 - [iCal Format](#)
 
 ---
