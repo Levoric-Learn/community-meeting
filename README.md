@@ -1,6 +1,17 @@
 # Levoric Learn Community Meeting
 Levoric Learn is an open-source initiative dedicated to creating accessible developer resources and tools. If you're passionate about contributing to our projects, discussing bug fixes, or exploring innovative ways to enhance our work, this meeting is the perfect opportunity for you.
 
+# Ways Community Meetings
+
+This repository contains the agendas and minutes for regular Levoric Learn community meetings.
+
+Each meeting has its own folder labeled with the meeting date. If you’d like to contribute to an agenda, please reach out to us on our [Discord Community](https://discord.gg/WGhvfQ4eRb).
+
+You can also subscribe to our public calendar to stay updated on upcoming events:
+
+- [Web Calendar](#)
+- [iCal Format](#)
+
 ---
 
 # Levoric Learn Community Code of Conduct
